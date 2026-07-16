@@ -8,13 +8,13 @@ the prompt defines done.
 
 ▶ **[Play the baseline](https://blaster-range.netlify.app)**
 
-| | |
+| Model | Harness | Time | Outcome |
+|---|---|---|---|
+| Claude Fable 5 | Claude Code | ~41 min | Selected baseline |
+
+| Tooling | Date |
 |---|---|
-| Model | Claude Fable 5 (`claude-fable-5`) |
-| Harness | Claude Code, single message, run unattended |
-| Tooling | npm, Vite, TypeScript, PlayCanvas 2.20+ |
-| Baseline run | ~41 min, 86 turns |
-| Date | 2026-07-07 |
+| npm, Vite, TypeScript, PlayCanvas 2.20+ | 2026-07-07 |
 
 ## Starting point the prompt assumes
 

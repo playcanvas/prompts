@@ -7,6 +7,7 @@ one-shots the baseline when handed to a coding agent as a single message.
 | Prompt | Game | Model | Play |
 |---|---|---|---|
 | [blaster-range](blaster-range/) | Fast-twitch arcade FPS | Claude Fable 5 | [▶ play](https://blaster-range.netlify.app) |
+| [freerun-08](freerun-08/) | Third-person parkour time trial | GPT-5.6-Sol | [▶ play](https://freerun-08.netlify.app/) |
 
 ## Using a prompt
 
